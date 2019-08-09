@@ -131,7 +131,7 @@
    */
   exports.prototype['networkTransactionId'] = undefined;
   /**
-   * The description for this field is not available.
+   * Response ID sent from the processor. 
    * @member {String} responseId
    */
   exports.prototype['responseId'] = undefined;
